@@ -1,0 +1,40 @@
+STT MSSV HO TEN
+1 18127065 Pham Thi Hong Anh
+2 18127066 Tran Minh Anh
+3 18127070 Tran Dai Chi
+4 18127073 Phan Quang Dai
+5 18127074 Tran Hai Dang
+6 18127078 Phan Tan Dat
+7 18127093 Phan Hoang Duy
+8 18127094 Trinh Quang Ha
+9 18127109 Thai Hoang Huy
+10 18127110 Tran Dinh Huy
+11 18127111 Tran Quoc Huy
+12 18127130 Tran Phuoc Loc
+13 18127131 Tran Xuan Loc
+14 18127139 Tang Truong Long
+15 18127140 Thai Hoang Long
+16 18127141 Tran Phi Long
+17 18127142 Trinh Hoang Long
+18 18127143 Trinh Thanh Long
+19 18127147 Tran Quang Luc
+20 18127148 Thai Quynh Mai
+21 18127153 Phan Nhat Minh
+22 18127168 Tran Bui Tai Nhan
+23 18127169 Tran DInh Minh Nhan
+24 18127176 To Dong Phat
+25 18127177 Tran Dinh Phat
+26 18127183 Tran Bao Phuc
+27 18127186 Tran Dinh Phuoc
+28 18127188 Tran Thi The Phuong
+29 18127192 Tran Minh Quang
+30 18127204 Thai Nhat Tan
+31 18127215 Quach Phu Thanh
+32 18127216 Tan Tuan Thanh
+33 18127217 Trinh Minh Thanh
+34 18127234 Tran Ngoc Bao Tran
+35 18127238 Phong Minh Tri
+36 18127247 Tran Thanh Tuan
+37 18127257 Tran Huy Vu
+38 18127264 Tran Ha Long
+  

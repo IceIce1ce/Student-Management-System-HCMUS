@@ -1,0 +1,7 @@
+Check-in
+View check-in result
+View schedules
+View scores of a course
+Change password
+View Profile Info
+Log out

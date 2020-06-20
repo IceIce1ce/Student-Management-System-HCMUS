@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\menu">
+      <UniqueIdentifier>{5028c4f3-0d07-4098-9166-e9ee112e2527}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\account">
+      <UniqueIdentifier>{fefe7224-702a-4e17-9680-33252e06838d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Staff">
+      <UniqueIdentifier>{7a26d692-3c00-434c-a20a-10c7f984c202}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\StudentMenu">
+      <UniqueIdentifier>{d734d371-6d40-4e36-bb25-977fbcbabfda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LecturerMenu">
+      <UniqueIdentifier>{39f3fa7d-5b37-4236-8a88-fcbf6343d87f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="console.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Header Files\menu</Filter>
+    </ClCompile>
+    <ClCompile Include="account.cpp">
+      <Filter>Header Files\account</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="honganh.cpp">
+      <Filter>Source Files\Staff</Filter>
+    </ClCompile>
+    <ClCompile Include="staffCourseMenu.cpp">
+      <Filter>Source Files\Staff</Filter>
+    </ClCompile>
+    <ClCompile Include="StudentMenu.cpp">
+      <Filter>Source Files\StudentMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="LecturerMenu.cpp">
+      <Filter>Source Files\LecturerMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sha256.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="console.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.h">
+      <Filter>Header Files\menu</Filter>
+    </ClInclude>
+    <ClInclude Include="account.h">
+      <Filter>Header Files\account</Filter>
+    </ClInclude>
+    <ClInclude Include="courses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="honganh.h">
+      <Filter>Source Files\Staff</Filter>
+    </ClInclude>
+    <ClInclude Include="StudentMenu.h">
+      <Filter>Source Files\StudentMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="lecturerMenu.h">
+      <Filter>Source Files\LecturerMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="sha256.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+View list of courses in the current semester
+View list of students of a course
+View attendance list of a course
+Edit an attendance
+Show ScoresBoard
+Edit Grade
+Exit

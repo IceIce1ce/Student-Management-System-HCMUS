@@ -1,0 +1,20 @@
+All courses of the current semester
+Student of the course
+Scoreboard of course
+Attendance list of course
+View list of lectures
+Add new lecture
+Delete lecture
+Add new student
+Delete student
+Add course
+Edit course
+Delete course
+Search and view attendance list of a course
+Export a attendance list to a csv file
+List Class
+Add Student
+Change Student
+Remove Student
+Edit Student
+Log out
